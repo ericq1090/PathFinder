@@ -21,6 +21,7 @@ GRAY = (128, 128, 128)
 
 
 
+
 # Nodes in our grid
 # Keeps track of where it is, what row/col pos, width, each neighbor node, and color of each node
 class Node:
